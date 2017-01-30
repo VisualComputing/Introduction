@@ -26,42 +26,101 @@ H:
 
 # Outline
 
-1. Goal <!-- .element: class="fragment" data-fragment-index="1"-->
-2. Course outline <!-- .element: class="fragment" data-fragment-index="2"-->
-3. Methodology <!-- .element: class="fragment" data-fragment-index="3"-->
+1. About me <!-- .element: class="fragment" data-fragment-index="1"-->
+2. Goal <!-- .element: class="fragment" data-fragment-index="2"-->
+3. Course outline <!-- .element: class="fragment" data-fragment-index="3"-->
+4. Methodology <!-- .element: class="fragment" data-fragment-index="4"-->
+5. References <!-- .element: class="fragment" data-fragment-index="5"-->
 
 H:
 
-## Goal
-### Sutherland's sketchpad
+# About me
 
-<section>
-	<iframe data-autoplay width="220" height="145" src="http://www.youtube.com/embed/6orsmFndx_o"></iframe>
-</section>
-
-H:
-
-## Course outline
-
-1. Part 1: Preleminaries
-    1. Cognitive aspects
-    2. Math
-    3. Lang
-2. Part 2: Shaders
-    1. Shaders in Processing
-    2. Texturing
-    3. Lighting
-    4. Image filters
-3. Part 3: HCI
-    1. Frames
-    2. Shapes
-    3. Picking
-    4. Behaviors
-    5. Input
-    6. Eye
-    7. Animation
-4. Part 4: Advanced Topics
+Jean Pierre Charalambos
+<p>
+e-mail: jpcharalambosh@unal.edu.co
+<p>
+[github](https://github.com/nakednous)
+<p>
+office: 120, Aulas de Ingeniería
 
 H:
 
-## Methodology
+## Goal: scheme
+
+<figure>
+    <img height='400' src='fig/pipeline.png' />
+    <figcaption>Modern Graphics Pipeline</figcaption>
+</figure>
+
+V:
+
+## Goal: low-level
+
+> Know the fundamentals
+
+V:
+
+## Goal: high-level
+
+> Envisage & handle the applications
+
+H:
+
+## Course outline: Part 1 Preleminaries
+
+1. Lang
+2. git
+3. Cognitive aspects
+4. Math
+5. Rasterization
+6. Imaging
+7. Representation
+
+V:
+
+## Course outline: Part 2 Shaders
+
+1. Shaders in Processing
+2. Texturing
+3. Lighting
+4. Image filters
+
+V:
+
+## Course outline: Part 3 HCI
+
+1. Frames
+2. Shapes
+3. Picking
+4. Behaviors
+5. Input
+6. Eye
+7. Animation
+
+V:
+
+## Course outline: Part 4 Advanced Topics
+
+pending
+
+H:
+
+## Methodology & grading
+
+* Quizzes & presentations
+* Workshops -- git templates
+    1. minimal
+    2. encouraging
+    3. optional
+* Final project
+
+H:
+
+## References
+
+1. [Online course](https://github.com/VisualComputing)
+2. [Math primer for graphics and game development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
+3. Papers
+4. [songho](http://www.songho.ca/opengl/)
+5. [scratchapixel](https://www.scratchapixel.com/)
