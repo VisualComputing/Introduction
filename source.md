@@ -80,16 +80,7 @@ H:
 
 V:
 
-## Course outline: Part 2 Shaders
-
-1. Shaders in Processing
-2. Texturing
-3. Lighting
-4. Image filters
-
-V:
-
-## Course outline: Part 3 HCI
+## Course outline: Part 4 HCI
 
 1. Frames
 2. Shapes
@@ -101,11 +92,37 @@ V:
 
 V:
 
+## Course outline: Part 3 Shaders
+
+1. Shaders in Processing
+2. Texturing
+3. Lighting
+4. Image filters
+
+V:
+
 ## Course outline: Part 4 Advanced Topics
 
-pending
+Project
 
 H:
+
+## Methodology & grading
+### Active (collaborative) learning
+               
+    passive                   workshops             active (collaborative)
+       |-------------------------*-------------------------|
+<!-- .element: class="fragment" data-fragment-index="1"-->
+            
+    unaided        Zone of Proximal Development       with guidance
+       |-----------------------> * <-----------------------|
+<!-- .element: class="fragment" data-fragment-index="2"-->
+                
+N:
+
+Zona de desarrollo próximo
+               
+V:
 
 ## Methodology & grading
 
@@ -113,7 +130,6 @@ H:
 * Workshops -- git templates
     1. minimal
     2. encouraging
-    3. optional
 * Final project
 
 H:
