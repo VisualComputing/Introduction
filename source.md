@@ -109,6 +109,16 @@ H:
 
 ## Methodology & grading
 ### Active (collaborative) learning
+
+<figure>
+    <img height="400" src="fig/lrp.jpg">
+    <figcaption>[Learning Retention Pyramid](https://en.wikipedia.org/wiki/Active_learning)</figcaption>
+</figure>
+
+V:
+
+## Methodology & grading
+### Active (collaborative) learning
                
     passive                   workshops             active (collaborative)
        |-------------------------*-------------------------|
