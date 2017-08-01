@@ -80,7 +80,7 @@ H:
 
 V:
 
-## Course outline: Part 4 HCI
+## Course outline: Part 2 HCI
 
 1. Frames
 2. Shapes
