@@ -47,24 +47,9 @@ office: 120, Aulas de Ingeniería
 
 H:
 
-## Goal: scheme
+## Goal
 
-<figure>
-    <img height='400' src='fig/pipeline.png' />
-    <figcaption>Modern Graphics Pipeline</figcaption>
-</figure>
-
-V:
-
-## Goal: low-level
-
-> Know the fundamentals
-
-V:
-
-## Goal: high-level
-
-> Envisage & handle the applications
+>> To study the process of creation and manipulation of a digital image of a modern visual application, using current hardware
 
 H:
 
@@ -74,9 +59,8 @@ H:
 2. git
 3. Cognitive aspects
 4. Math
-5. Rasterization
-6. Imaging
-7. Representation
+5. Rendering
+6. Representation
 
 V:
 
@@ -101,9 +85,14 @@ V:
 
 V:
 
-## Course outline: Part 4 Advanced Topics
+## Course outline: Part 4 Collaborations
 
-Project
+<!--- https://visualcomputing.github.io/collaborations.html --->
+
+<figure>
+    <img height="400" src="fig/collaborations.jpg">
+    <figcaption>[Collaborations](https://visualcomputing.github.io/collaborations.html)</figcaption>
+</figure>
 
 H:
 
@@ -120,13 +109,9 @@ V:
 ## Methodology & grading
 ### Active (collaborative) learning
                
-    passive                   workshops             active (collaborative)
-       |-------------------------*-------------------------|
-<!-- .element: class="fragment" data-fragment-index="1"-->
-            
+ 
     unaided        Zone of Proximal Development       with guidance
        |-----------------------> * <-----------------------|
-<!-- .element: class="fragment" data-fragment-index="2"-->
                 
 N:
 
@@ -140,7 +125,7 @@ V:
 * Workshops -- git templates
     1. minimal
     2. encouraging
-* Final project
+* Collaborations
 
 H:
 
