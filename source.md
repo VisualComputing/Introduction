@@ -37,12 +37,9 @@ H:
 
 # About me
 
-Jean Pierre Charalambos
-<p>
-e-mail: jpcharalambosh@unal.edu.co
-<p>
-[github](https://github.com/nakednous)
-<p>
+Jean Pierre Charalambos  
+e-mail: jpcharalambosh@unal.edu.co  
+[visual computing](https://github.com/visualcomputing)  
 office: 120, Aulas de Ingeniería
 
 H:
@@ -87,22 +84,16 @@ V:
 
 ## Course outline: Part 4 Collaborations
 
-<!--- https://visualcomputing.github.io/collaborations.html --->
-
-<figure>
-    <img height="400" src="fig/collaborations.jpg">
-    <figcaption>[Collaborations](https://visualcomputing.github.io/collaborations.html)</figcaption>
-</figure>
+![Saved tree](fig/collaborations.jpg) <!-- .element height="400" -->  
+[Collaborations](https://visualcomputing.github.io/collaborations.html)
 
 H:
 
 ## Methodology & grading
 ### Active (collaborative) learning
 
-<figure>
-    <img height="400" src="fig/lrp.jpg">
-    <figcaption>[Learning Retention Pyramid](https://en.wikipedia.org/wiki/Active_learning)</figcaption>
-</figure>
+![Retentation pyramid](fig/lrp.jpg) <!-- .element height="400" -->  
+[Learning Retention Pyramid](https://en.wikipedia.org/wiki/Active_learning)
 
 V:
 
