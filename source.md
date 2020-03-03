@@ -52,40 +52,41 @@ H:
 
 ## Course outline: Part 1 Preleminaries
 
-1. Lang
+1. Processing
 2. git
 3. Cognitive aspects
-4. Math
-5. Rendering
-6. Representation
 
 V:
 
-## Course outline: Part 2 HCI
+## Course outline: Part 2 Data visualization
 
-1. Frames
-2. Shapes
-3. Picking
-4. Behaviors
-5. Input
-6. Eye
-7. Animation
+The seven stages of data visualization
 
-V:
-
-## Course outline: Part 3 Shaders
-
-1. Shaders in Processing
-2. Texturing
-3. Lighting
-4. Image filters
+1. Acquire
+2. Parse
+3. Filter
+4. Mine
+5. Represent
+6. Refine
+7. Interact
 
 V:
 
-## Course outline: Part 4 Collaborations
+## Course outline: Part 3 Rendering
 
-![Saved tree](fig/collaborations.jpg) <!-- .element height="400" -->  
-[Collaborations](https://visualcomputing.github.io/collaborations.html)
+1. Rendering
+2. Representation (polygonal meshes & splines)
+3. Shaders (texturing & lighting)
+
+V:
+
+## Course outline: Part 4 HCI
+
+1. Navigation
+2. Picking & manipulation
+3. Custom behaviors
+4. Inverse kinematics
+
 
 H:
 
@@ -116,14 +117,14 @@ V:
 * Workshops -- git templates
     1. minimal
     2. encouraging
-* Collaborations
 
 H:
 
 ## References
 
 1. [Online course](https://github.com/VisualComputing)
-2. [Math primer for graphics and game development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
-3. Papers
-4. [songho](http://www.songho.ca/opengl/)
-5. [scratchapixel](https://www.scratchapixel.com/)
+2. [Visualizing data](http://media.espora.org/mgoblin_media/media_entries/1633/Visualizing_Data.pdf)
+3. [Math primer for graphics and game development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
+4. Papers
+5. [songho](http://www.songho.ca/opengl/)
+6. [scratchapixel](https://www.scratchapixel.com/)
