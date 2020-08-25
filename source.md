@@ -52,9 +52,10 @@ H:
 
 ## Course outline: Part 1 Preleminaries
 
-1. Processing
+1. Processing & p5.js
 2. git
 3. Cognitive aspects
+4. Image processing
 
 V:
 
@@ -113,10 +114,8 @@ V:
 
 ## Methodology & grading
 
-* Quizzes & presentations
-* Workshops -- git templates
-    1. minimal
-    2. encouraging
+* Presentations
+* Workshops
 
 H:
 
