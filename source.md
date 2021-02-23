@@ -50,51 +50,26 @@ H:
 
 H:
 
-## Course outline: Part 1 Preleminaries
+## Course outline
 
-1. Processing & p5.js
-2. git
-3. Cognitive aspects
-4. Image processing
-
-V:
-
-## Course outline: Part 2 Data visualization
-
-The seven stages of data visualization
-
-1. Acquire
-2. Parse
-3. Filter
-4. Mine
-5. Represent
-6. Refine
-7. Interact
-
-V:
-
-## Course outline: Part 3 Rendering
-
-1. Rendering
-2. Representation (polygonal meshes & splines)
-3. Shaders (texturing & lighting)
-
-V:
-
-## Course outline: Part 4 HCI
-
-1. Navigation
-2. Picking & manipulation
-3. Custom behaviors
-4. Inverse kinematics
-
+1. [free software](https://en.wikipedia.org/wiki/Free_software)
+2. [Processing](https://processing.org/) & [p5.js](https://p5js.org/)
+3. [Static site generators](https://jamstack.org/generators/)
+4. Cognitive aspects
+5. Image processing & Fragment Shaders
+6. Rendering & Algorithm visualization
+7. Affine transformations & scene-graphs
+8. Interaction techniques
+   1. Navigation / Picking & manipulation (Custom behaviors)
+   2. Inverse kinematics 
+9.  Lightning & Vertex Shaders
 
 H:
 
 ## Methodology & grading
 ### Active (collaborative) learning
 
-![Retentation pyramid](fig/lrp.jpg) <!-- .element height="400" -->  
+![Retention pyramid](fig/lrp.jpg) <!-- .element height="400" -->  
 [Learning Retention Pyramid](https://en.wikipedia.org/wiki/Active_learning)
 
 V:
@@ -102,20 +77,21 @@ V:
 ## Methodology & grading
 ### Active (collaborative) learning
                
- 
     unaided        Zone of Proximal Development       with guidance
        |-----------------------> * <-----------------------|
-                
-N:
-
-Zona de desarrollo próximo
                
 V:
 
 ## Methodology & grading
 
-* Presentations
-* Workshops
+* Presentations using [reveal.js](https://github.com/hakimel/reveal.js/)
+  * Theory sessions
+  * Practice sessions
+* Workshops (research structure) using [codedoc](https://codedoc.cc/) and [p5.js](https://p5js.org/)
+  * Problem statement
+  * Background
+  * Code 
+  * Report -> [blog posts](https://en.wikipedia.org/wiki/Edublog)
 
 H:
 
