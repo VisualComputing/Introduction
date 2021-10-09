@@ -27,7 +27,7 @@ H:
 
 # Outline
 
-1. About me <!-- .element: class="fragment" data-fragment-index="1"-->
+1. About <!-- .element: class="fragment" data-fragment-index="1"-->
 2. Goal <!-- .element: class="fragment" data-fragment-index="2"-->
 3. Course outline <!-- .element: class="fragment" data-fragment-index="3"-->
 4. Methodology <!-- .element: class="fragment" data-fragment-index="4"-->
@@ -35,8 +35,9 @@ H:
 
 H:
 
-# About me
+# About
 
+Visual Computing
 Jean Pierre Charalambos  
 e-mail: jpcharalambosh@unal.edu.co  
 [visual computing](https://github.com/visualcomputing)  
