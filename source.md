@@ -49,6 +49,15 @@ H:
 
 >> To study the process of creation and manipulation of a digital image of a modern visual application, using current hardware
 
+V:
+
+## Goal
+
+<section>
+	<iframe width="420" height="345" src="https://www.youtube.com/embed/2hvprCbk1HU?start=122&end=167"></iframe>
+</section>
+Excerpt from [Light Darkness And Colours](https://www.youtube.com/watch?v=2hvprCbk1HU) documentary about [Johann Wolfgang von Goethe](http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) _Theory of Colors_ (1810).
+
 H:
 
 ## Course outline
