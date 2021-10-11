@@ -37,7 +37,7 @@ H:
 
 # About
 
-Visual Computing
+Visual Computing  
 Jean Pierre Charalambos  
 e-mail: jpcharalambosh@unal.edu.co  
 [visual computing](https://github.com/visualcomputing)  
@@ -74,7 +74,6 @@ H:
    1. Navigation / Picking & manipulation (Custom behaviors)
    2. Inverse kinematics *
 10.  Lightning & Vertex Shaders
-* to be defined
 
 H:
 
