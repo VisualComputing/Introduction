@@ -62,17 +62,19 @@ H:
 
 ## Course outline
 
-1. [free software](https://en.wikipedia.org/wiki/Free_software)
-2. [Processing](https://processing.org/) & [p5.js](https://p5js.org/)
+1. [free software](https://en.wikipedia.org/wiki/Free_software) *
+2. [p5.js](https://p5js.org/)
 3. [Static site generators](https://jamstack.org/generators/)
 4. Cognitive aspects
 5. Image processing & Fragment Shaders
 6. Rendering & Algorithm visualization
 7. Affine transformations & scene-graphs
-8. Interaction techniques
+8. Spline *
+9. Interaction techniques
    1. Navigation / Picking & manipulation (Custom behaviors)
-   2. Inverse kinematics 
-9.  Lightning & Vertex Shaders
+   2. Inverse kinematics *
+10.  Lightning & Vertex Shaders
+* to be defined
 
 H:
 
@@ -97,10 +99,10 @@ V:
 * Presentations using [reveal.js](https://github.com/hakimel/reveal.js/)
   * Theory sessions
   * Practice sessions
-* Workshops (research structure) using [codedoc](https://codedoc.cc/) and [p5.js](https://p5js.org/)
+* Workshops (research structure) using [gohugo](https://gohugo.io/) and [p5.js](https://p5js.org/)
   * Problem statement
   * Background
-  * Code 
+  * Code
   * Report -> [blog posts](https://en.wikipedia.org/wiki/Edublog)
 
 H:
