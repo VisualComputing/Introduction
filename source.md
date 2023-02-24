@@ -22,7 +22,9 @@ H:
 # Visual Computing Introduction
 
 Jean Pierre Charalambos  
-[Universidad Nacional de Colombia](https://unal.edu.co/)
+[Universidad Nacional de Colombia](https://unal.edu.co/)  
+Presentation best seen [online](https://visualcomputing.github.io/Introduction/)  
+See also the [source code](https://github.com/VisualComputing/Introduction)
 
 H:
 
